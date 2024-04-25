@@ -1,0 +1,24 @@
+[
+  {
+    "role": "Full Stack Developer Intern",
+    "organisation": "NullClass Pvt Ltd",
+    "startDate": "03 Feb 2024",
+    "endDate": "25th April 2024",
+    "experiences": [
+      "Worked with backend technology like Node.js Mongodb databases"
+    ],
+    "imageSrc": ""
+  },
+
+  {
+    "role": "Frontend Contributor",
+    "organisation": "TechFiesta International Hackathon",
+    "startDate": "",
+    "endDate": "",
+    "experiences": [
+      "Great Experience of 30 hours hackathon ",
+      "Learned a lot with team members"
+    ],
+    "imageSrc": ""
+  }
+]
