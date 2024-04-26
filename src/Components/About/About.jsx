@@ -7,10 +7,6 @@ function About() {
     <section className={styles.container} id="about">
       <h2 className={styles.title}>Education</h2>
       <div className={styles.content}>
-        <img
-          src={getImageUrl("about/aboutImage.png")}
-          alt="Me Sitting with laptop"
-        />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
@@ -48,6 +44,10 @@ function About() {
             </div>
           </li>
         </ul>
+        <img
+          src={getImageUrl("about/aboutImage.png")}
+          alt="Me Sitting with laptop"
+        />
       </div>
     </section>
   );
