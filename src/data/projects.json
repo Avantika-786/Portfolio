@@ -1,16 +1,16 @@
 [
   {
     "title": "AgroTech Website",
-    "imageSrc": "projects/project.png",
-    "description": "This is an agricultural related website ",
+    "imageSrc": "projects/ProjectA.png",
+    "description": "The Website suggets best crops to farmer as per data given by them . Also Visualize the profitability of that crop",
     "skills": ["React", "Express", "Node", "MongoDB"],
     "demo": "https://www.example.com",
     "source": "https://github.com/Avantika-786"
   },
   {
     "title": "Video Streaming Website",
-    "imageSrc": "projects/project.png",
-    "description": "This is an Educational related website",
+    "imageSrc": "projects/ProjectB.png",
+    "description": "The website allows user to create their own channel and upload the good video contents on it.It contains all category videos",
     "skills": ["React", "Express", "Node", "MongoDB"],
     "demo": "https://www.example.com",
     "source": "https://github.com/Avantika-786"

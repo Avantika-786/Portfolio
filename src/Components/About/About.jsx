@@ -5,7 +5,7 @@ import { getImageUrl } from "../../utils";
 function About() {
   return (
     <section className={styles.container} id="about">
-      <h2 className={styles.title}>About</h2>
+      <h2 className={styles.title}>Education</h2>
       <div className={styles.content}>
         <img
           src={getImageUrl("about/aboutImage.png")}
