@@ -1,18 +1,24 @@
 [
   {
-    "title": "AgroTech Website",
+    "title": "ECOMMERCE  WEBSITE ",
     "imageSrc": "projects/ProjectA.png",
-    "description": "The Website suggets best crops to farmer as per data given by them . Also Visualize the profitability of that crop",
+    "description": "An e-commerce website for selling electronic gadgets, built using the MERN stack, featuring an admin panel, category-wise sections, login/signup functionality, and real-time communication with instant message delivery and live chat updates.",
     "skills": ["React", "Express", "Node", "MongoDB"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/Avantika-786"
+    "demo": "https://eccomerceshophere.netlify.app/"
   },
   {
-    "title": "Video Streaming Website",
+    "title": "Chat Application",
     "imageSrc": "projects/ProjectB.png",
-    "description": "The website allows user to create their own channel and upload the good video contents on it.It contains all category videos",
+    "description": "A MERN stack chat application utilizing Socket.IO for real-time communication, bcrypt for secure password hashing, and jsonwebtoken for authentication. Features include instant message delivery, live chat updates, and user authentication.",
+    "skills": ["Socket.io", "React", "Express", "Node", "MongoDB"],
+    "source": "https://github.com/Avantika-786/mern_chat_app"
+  },
+  {
+    "title": "College Event Advertiser",
+    "imageSrc": "projects/ProjectC.png",
+    "description": "A dynamic platform for promoting college events, offering a user-friendly interface to create, manage, and share event details. It features real-time updates, interactive event calendars, and seamless social media integration. ",
     "skills": ["React", "Express", "Node", "MongoDB"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/Avantika-786"
+
+    "source": "https://github.com/Avantika-786/collegeeventweb"
   }
 ]
